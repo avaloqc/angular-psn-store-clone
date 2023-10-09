@@ -1,0 +1,25 @@
+
+.footer__container {
+	position: relative;
+	bottom: 0;
+
+}
+
+.links-footer__container {
+	display: flex;
+}
+
+.links-footer__container > span {
+	margin: 20px;
+	padding: 15px;
+}
+
+.links-footer__container > span > ul {
+	list-style-type: none;
+
+}
+
+.links-footer__container > span > ul > li > a {
+	text-decoration: none;
+	color: aliceblue;
+}
